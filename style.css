@@ -67,7 +67,7 @@ section {
 header {
   height: 100vh;
   background: linear-gradient(rgba(15, 17, 17, 0.5), rgba(10, 10, 10, 0.1)),
-    url("https://github.com/amromankhan/Serviceprovider/blob/main/about.jpg");
+    url("about.jpg");
   background-repeat: no-repeat;
   background-size: cover;
   background-position: center;
